@@ -1,5 +1,10 @@
 # Clinical Risk Flagging — Reducing False Negatives with Logistic Regression
 
+## Executive Summary
+
+This project builds a clinical risk stratification model to predict whether a patient is likely to experience a prolonged hospital stay.
+The objective was to identify high-risk patients early and provide interpretable signals that could support resource planning and intervention strategies.
+
 ## 1. Business Problem
 
 In clinical laboratories, the worst possible failure is a false negative — a high-risk test that is not flagged for manual review.
